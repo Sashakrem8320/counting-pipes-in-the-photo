@@ -4,7 +4,7 @@ import cv2
 
 print("Запуск...")
 
-TOKEN = '7194071701:AAGTn9BpCn2KzOxsGtDKUmB27nE8UExEkHQ'
+TOKEN = '<BOT TELEGRAM TOKEN>'
 bot = telebot.TeleBot(TOKEN)
 user_states = {}
 
