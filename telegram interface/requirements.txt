@@ -1,0 +1,8 @@
+telebot
+torchvision==0.20.1
+torch==2.5.1
+Pillow==11.0.0
+ultralytics==8.3.28
+torch==2.5.1
+tqdm==4.67.0
+opencv-python==4.10.0.84
