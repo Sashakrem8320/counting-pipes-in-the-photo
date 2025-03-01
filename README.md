@@ -47,9 +47,6 @@
 
 4. Получите результат подсчёта труб на изображении.
 
-## Разработчикам на кофе☕️
-## https://yoomoney.ru/fundraise/13DPASMJTO0.240617
-
 ## Разрабатывали:
 
 ### [@Sashakrem8320](https://github.com/Sashakrem8320)
@@ -57,4 +54,9 @@
 ### [@alickqs](https://github.com/alickqs)
 ### [@tmbochka](https://github.com/tmbochka)
 ### [@Frignum](https://github.com/Frignum)
+
+
+## Разработчикам на кофе☕️
+## https://yoomoney.ru/fundraise/13DPASMJTO0.240617
+
 
