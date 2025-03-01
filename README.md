@@ -56,4 +56,5 @@
 ### [@Fl1nixxx](https://github.com/Fl1nixxx)
 ### [@alickqs](https://github.com/alickqs)
 ### [@tmbochka](https://github.com/tmbochka)
+### [@Frignum](https://github.com/Frignum)
 
